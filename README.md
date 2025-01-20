@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @StormBrine
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning lots of new frameworks and languages
-- 📫 You can reach me at iambapyn@gmail.com
+- 👋 Hi, I’m Bapynshngainlang Nongkynrih
+- 👀 I’m interested in CyberSecurity and Artificial Intelligence, specifically Natural Language Processing
+- 🌱 I’m currently learning lots of new frameworks and techniques
+
 
 <!---
 StormBrine/StormBrine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
